@@ -2,14 +2,14 @@
 <p>Sacola API para Servir uma Aplicação com Domínio de Delivery</p>
 
 <h3>Status do Projeto</h3>
-<p align="center"> Sacola API 💻 Em construção... </p>
+<p align="center"> Sacola API </p>
 
 <h3>Features</h3>
 
 - [x] Incluir itens na sacola<br>
 - [x] Visualizar sacola<br>
 - [x] Fechar sacola<br>
-- [ ] Excluir item da sacola<br>
+- [x] Excluir item da sacola<br>
 
 <h3>Demostração da Aplicação</h3>
 <p>Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:</p>
@@ -47,7 +47,15 @@ No Terminal/Console:
 
 <a href="https://drive.google.com/file/d/16WW_MWlpypm9BvFk7Dwn3gTwbgErEjlB/view?usp=sharing"> 🚀 Collection Sacola API - Postman</a><br>
 
-<img src="https://i.imgur.com/UBHcWKt.png" alt="Sacola API Swagger UI">
+## 🖼️ Imagens do projeto 👀
+
+Página de documentação Open API
+
+![preview](img/ifood-dev-week-01.png)
+
+![preview](img/ifood-dev-week-02.png)
+
+![preview](img/ifood-dev-week-03.png)
 
 <h3>Tecnologias Utilizadas</h3>
 
